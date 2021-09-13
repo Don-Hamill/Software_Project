@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib12">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk.zip" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk.zip" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk.zip" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk.zip" recursive="false" type="SOURCES" />
+  </library>
+</component>
